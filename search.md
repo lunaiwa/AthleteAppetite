@@ -1,7 +1,7 @@
 <html>
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="index.css">
-  <h1 style="padding-top: 3%;">What do you Want to Eat ?</h1>
+  <h1 style="padding-top: 3%;">What do you want to eat ?</h1>
   <br><br>
   <center>
   <h2> what ingredients do you have ? </h2>
@@ -55,5 +55,7 @@
 <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Search</button>
 
 </select>
+</center>
+</html>
 
 
