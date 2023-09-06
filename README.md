@@ -4,9 +4,9 @@ Athlete Appetite is a website for busy athletes to quickly determine what nutrit
 
 ### Acessing the Website
 
-To access the Athlete Appetite website, please ue the following link: Website Link
+To access the Athlete Appetite website, please ue the following link: [Website Link](https://lunaiwa.github.io/AthleteAppetite/)
 
-Or to build our website just **git clone**
+Or to build our website just **git clone** https://github.com/lunaiwa/AthleteAppetite.git
 
 ### Features
 
