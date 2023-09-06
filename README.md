@@ -18,6 +18,10 @@ Or to build our website just **git clone** https://github.com/lunaiwa/AthleteApp
 
 We hope you enjoy our website ! If you have any issues, suggestions, or need assistence, please see us in Mort's room period 1. We value your feedback and will be happy to assist you.
 
+### Project Plans
+
+[ISSUE](https://github.com/e-shen2022/APCS_Blog/issues/53#issuecomment-1707610429)
+
 ### Credentials
 
 [Emma Shen](https://github.com/e-shen2022) and [Luna Iwazaki](https://github.com/lunaiwa)
