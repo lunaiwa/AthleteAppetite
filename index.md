@@ -16,6 +16,7 @@
     white-space: nowrap;
     overflow: hidden;
     padding-top:50px;
+    text-align: center;
     animation: typing 2s steps(30, end);
 }
 

@@ -1,4 +1,4 @@
-const words = ["          ","B R E A K F A S T", "L U N C H", "D I N N E R"];
+const words = ["          ","B R E A K F A S T", "L U N C H", "D I N N E R", "D E S S E R T", "B R E A K F A S T", "L U N C H", "D I N N E R", "D E S S E R T"];
 const textElement = document.getElementById("text");
 let wordIndex = 0;
 let charIndex = 0;
