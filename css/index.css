@@ -104,13 +104,13 @@ nav img{
 /*Fonts using DaFont*/
 @font-face {
    font-family: ravioli;
-   src: url("ravioli.ttf");
+   src: url("../ravioli.ttf");
  }
 
 
 @font-face {
    font-family: nexa;
-   src: url("nexa.ttf");
+   src: url("../nexa.ttf");
 }
 
 /*Profile cards*/
